@@ -1,0 +1,16 @@
+1.What is Python ? What are the ways to install in your Pc ?
+
+Python is high level and interpreted programming language. Its is simple and easy to learn. Syntax reading and understanding is easy in the Python. 
+Ways to install python:
+pycharm
+anaconda
+python installer
+
+
+2. What is the Code Environment ? Types ?
+
+Code environment is environment where program or code can write, compile, execute the code. 
+Types:
+1.Text Editors e.g Notepad
+2.Full IDEs e.g PyCharm and Spyder
+3.Notebook Environment e.g Jupyter notebook
