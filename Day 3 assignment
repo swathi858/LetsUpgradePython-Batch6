@@ -1,0 +1,22 @@
+Prime number:
+
+no=int(input("enter no"))
+for i in range(2,no):
+    if no%i!=0:
+        print(no,"is prime")
+    else:
+        print(no,"is not prime")
+
+
+
+Sum of n numbers:
+
+number = int(input("Please Enter any Number: "))
+total = 0
+value = 1
+while (value <= number):
+    total = total + value
+    value = value + 1
+
+print(total)
+
